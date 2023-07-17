@@ -31,7 +31,7 @@ The data set was retrieved from:
   * Outlier Detection
   * Balancing the Dataset
   * Exploring Train Test Split
-7.	[EXPLORATORY DATA ANALYSIS](https://github.com/DA-CIND/CIND820/blob/main/EDA(EXPLORATORY%20DATA%20ANALYSIS).ipynb)
+7. EXPLORATORY DATA ANALYSIS
   * Initial Analysis
   * Univariate Analysis
   * Bivariate Analysis
