@@ -9,6 +9,13 @@ For predictive modeling, the proposed algorithms used are (1) Logistic Regressio
 
 Can the implementation of a supervised machine-learning model be used to determine if diseases can be accurately predicted and diagnosed? 
 
+## Datasource
+
+The data set was retrieved from: 
+(1) https://impact.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html (The New York Presbyterian Hospital provides a database of health symptoms that individuals experienced along with the corresponding prognosis admitted during 2004. (Disease, n.d.)) 
+(2) https://github.com/anujdutt9/Disease-Prediction-from-Symptoms 
+(3) https://www.kaggle.com/datasets/neelima98/disease-prediction-using-machine-learning 
+
 ##  Project Stages
 
 1.	Abstract 
