@@ -7,7 +7,7 @@ introduce project
 
 1.	Abstract 
 2.	Introduction
-* Research Questions
+   * Research Questions
 3.	Literature Review
 4.	Approach
 5.	DATA DESCRIPTION
