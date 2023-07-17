@@ -21,15 +21,15 @@ The data set was retrieved from:
 1.	[Abstract](https://github.com/DA-CIND/CIND820/blob/main/Abstract%20-%20Revised.pdf) 
 2.	Introduction
   * Research Questions
-     - •	Can we accurately predict disease using machine learning? 
-     - •	Which correlation technique will be used in a binary dataset?
-     - •	Which feature selection technique will be appropriate for this dataset?
-     - • Which machine learning algorithms are most effective in producing reliable results? 
-     - •	What method of cross validation evaluation will be employed?
-     - •	Can the ML algorithms' settings be tuned for the optimal performance? 
+     - Can we accurately predict disease using machine learning? 
+     - Which correlation technique will be used in a binary dataset?
+     - Which feature selection technique will be appropriate for this dataset?
+     - Which machine learning algorithms are most effective in producing reliable results? 
+     - What method of cross validation evaluation will be employed?
+     - Can the ML algorithms' settings be tuned for the optimal performance? 
 
 3. [Literature Review](https://github.com/DA-CIND/CIND820/blob/main/Literature%20Review.pdf)
-4.	Approach
+4.	[APPROACH](https://github.com/DA-CIND/CIND820/blob/main/Approach.pdf)
 5.	DATA DESCRIPTION
  *  Attributes Summary
 6.	[DATA PREPROCESSING](https://github.com/DA-CIND/CIND820/blob/main/Data%20Preprocessing.ipynb)
