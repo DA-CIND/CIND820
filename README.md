@@ -58,8 +58,7 @@ The data set was retrieved from:
     * Decision Tree Based
 10.	[FEATURE IMPORTANCE](https://github.com/DA-CIND/CIND820/blob/main/Feature%20Importance-Final.ipynb)
 
-The code for the below is all combined into [one](https://github.com/DA-CIND/CIND820/blob/main/1st%2C2nd%20iteration%2CCross%20Validation%2C%20Hypertuning.ipynb) file
-
+The code for the below is all combined into [one](https://github.com/DA-CIND/CIND820/blob/main/1st%2C2nd%20iteration%2CCross%20Validation%2C%20Hypertuning.ipynb) 
 11.	1st ITERATION MODEL BUILDING
 12.	CROSS VALIDATION
   * Leave one out
