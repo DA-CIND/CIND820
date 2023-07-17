@@ -35,7 +35,7 @@ The data set was retrieved from:
   * Initial Analysis
   * Univariate Analysis
   * Bivariate Analysis
-8.	CORRELATION
+8.	[CORRELATION](https://github.com/DA-CIND/CIND820/blob/main/Exploring%20Correlation.ipynb)
   * Exploring Correlation through Heatmap
   * Matthews Correlation Coefficient
   * Brier Score
