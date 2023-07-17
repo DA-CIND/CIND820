@@ -36,7 +36,7 @@ introduce project
     * Recursive Feature Elimination
   * Embedded Method
     * Decision Tree Based
-10.	FEAETURE IMPORTANCE
+10.	FEATURE IMPORTANCE
 11.	1st iteration model building
 12.	CROSS VALIDATION
   * Leave one out
