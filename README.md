@@ -27,7 +27,7 @@ The data set was retrieved from:
  *  Attributes Summary
 6.	DATA PREPROCESSING
   * Handling missing Values
-  * Checking Duplicates
+  * [Checking Duplicates](https://github.com/DA-CIND/CIND820/blob/main/Duplicate%20Check.ipynb)
   * Outlier Detection
   * Balancing the Dataset
   * Exploring Train Test Split
