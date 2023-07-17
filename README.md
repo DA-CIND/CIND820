@@ -9,7 +9,7 @@ a.	Research Questions
 3.	Literature Review
 4.	Approach
 5.	DATA DESCRIPTION
-  a.	Attributes Summary
+ *  a.	Attributes Summary
 6.	DATA PREPROCESSING
   a.	Handling missing Values
   b.	Checking Duplicates
