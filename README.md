@@ -12,9 +12,9 @@ Can the implementation of a supervised machine-learning model be used to determi
 ## Datasource
 
 The data set was retrieved from: 
-(1) https://impact.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html (The New York Presbyterian Hospital provides a database of health symptoms that individuals experienced along with the corresponding prognosis admitted during 2004. (Disease, n.d.)) 
-(2) https://github.com/anujdutt9/Disease-Prediction-from-Symptoms 
-(3) https://www.kaggle.com/datasets/neelima98/disease-prediction-using-machine-learning 
+- (1) https://impact.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html (The New York Presbyterian Hospital provides a database of health symptoms that individuals experienced along with the corresponding prognosis admitted during 2004.) 
+- (2) https://github.com/anujdutt9/Disease-Prediction-from-Symptoms 
+- (3) https://www.kaggle.com/datasets/neelima98/disease-prediction-using-machine-learning 
 
 ##  Project Stages
 
