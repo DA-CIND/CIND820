@@ -3,6 +3,8 @@
 introduce project
 
 
+##  Project Stages
+
 1.	Abstract 
 2.	Introduction
 a.	Research Questions
