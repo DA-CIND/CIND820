@@ -25,7 +25,7 @@ The data set was retrieved from:
 4.	Approach
 5.	DATA DESCRIPTION
  *  Attributes Summary
-6.	DATA PREPROCESSING
+6.	[DATA PREPROCESSING](https://github.com/DA-CIND/CIND820/blob/main/Data%20Preprocessing.ipynb)
   * Handling missing Values
   * [Checking Duplicates](https://github.com/DA-CIND/CIND820/blob/main/Duplicate%20Check.ipynb)
   * Outlier Detection
