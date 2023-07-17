@@ -18,7 +18,7 @@ The data set was retrieved from:
 
 ##  Project Stages
 
-1.	Abstract 
+1.	[Abstract](https://github.com/DA-CIND/CIND820/blob/main/Abstract%20-%20Revised.pdf) 
 2.	Introduction
   * Research Questions
 3.	Literature Review
