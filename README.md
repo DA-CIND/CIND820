@@ -18,8 +18,8 @@ The data set was retrieved from:
 
 ##  Project Stages
 
-1.	[Abstract](https://github.com/DA-CIND/CIND820/blob/main/Abstract%20-%20Revised.pdf) 
-2.	Introduction
+1.	[ABSTRACT](https://github.com/DA-CIND/CIND820/blob/main/Abstract%20-%20Revised.pdf) 
+2.	INTRODUCTION
   * Research Questions
      - Can we accurately predict disease using machine learning? 
      - Which correlation technique will be used in a binary dataset?
@@ -28,7 +28,7 @@ The data set was retrieved from:
      - What method of cross validation evaluation will be employed?
      - Can the ML algorithms' settings be tuned for the optimal performance? 
 
-3. [Literature Review](https://github.com/DA-CIND/CIND820/blob/main/Literature%20Review.pdf)
+3. [LITERATURE REVIEW](https://github.com/DA-CIND/CIND820/blob/main/Literature%20Review.pdf)
 4.	[APPROACH](https://github.com/DA-CIND/CIND820/blob/main/Approach.pdf)
 5.	[DATA DESCRIPTION](https://github.com/DA-CIND/CIND820/blob/main/Data%20Description.pdf)
  *  Attributes Summary
