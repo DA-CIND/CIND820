@@ -21,7 +21,7 @@ The data set was retrieved from:
 1.	[Abstract](https://github.com/DA-CIND/CIND820/blob/main/Abstract%20-%20Revised.pdf) 
 2.	Introduction
   * Research Questions
-3.	Literature Review
+Literature Review
 4.	Approach
 5.	DATA DESCRIPTION
  *  Attributes Summary
