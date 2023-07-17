@@ -49,7 +49,7 @@ The data set was retrieved from:
     * Recursive Feature Elimination
   * Embedded Method
     * Decision Tree Based
-10.	FEATURE IMPORTANCE
+10.	[FEATURE IMPORTANCE](https://github.com/DA-CIND/CIND820/blob/main/Feature%20Importance-Final.ipynb)
 
 The code for the below is all combined into one file
 
