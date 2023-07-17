@@ -28,7 +28,7 @@ The data set was retrieved from:
 6.	DATA PREPROCESSING
   * Handling missing Values
   * Checking Duplicates
-  * Outlier Detection
+  * [Outlier Detection](https://github.com/DA-CIND/CIND820/blob/main/Duplicate%20Check.ipynb)
   * Balancing the Dataset
   * Exploring Train Test Split
 7. EXPLORATORY DATA ANALYSIS
