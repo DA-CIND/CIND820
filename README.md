@@ -39,7 +39,7 @@ The data set was retrieved from:
   * Exploring Correlation through Heatmap
   * Matthews Correlation Coefficient
   * Brier Score
-9.	FEATURE SELECTION
+9.	[FEATURE SELECTION] (https://github.com/DA-CIND/CIND820/blob/main/Feature%20Selection-Final.ipynb)
   * Filter Method
     * Chi Square
     * ANOVA
