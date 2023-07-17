@@ -30,7 +30,7 @@ The data set was retrieved from:
 
 3. [Literature Review](https://github.com/DA-CIND/CIND820/blob/main/Literature%20Review.pdf)
 4.	[APPROACH](https://github.com/DA-CIND/CIND820/blob/main/Approach.pdf)
-5.	DATA DESCRIPTION
+5.	[DATA DESCRIPTION](https://github.com/DA-CIND/CIND820/blob/main/Data%20Description.pdf)
  *  Attributes Summary
 6.	[DATA PREPROCESSING](https://github.com/DA-CIND/CIND820/blob/main/Data%20Preprocessing.ipynb)
   * Handling missing Values
