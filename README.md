@@ -50,13 +50,15 @@ The data set was retrieved from:
   * Embedded Method
     * Decision Tree Based
 10.	FEATURE IMPORTANCE
-11.	1st iteration model building
+
+The code for the below is all combined into one file
+11.	1st ITERATION MODEL BUILDING
 12.	CROSS VALIDATION
   * Leave one out
   * Stratified k-fold
   * Holdout method
-13.	Hyperparameter tuning
-14.	2nd iteration model building
+13.	HYPERPARAMETER TUNING
+14.	2nd ITERATION MODEL BUILDING
 15.	AUC / ROC curve
 16.	Conclusion
 17.	References
