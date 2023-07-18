@@ -22,7 +22,6 @@ The data set was retrieved from:
 2.	INTRODUCTION
   * Research Questions
      - Can we accurately predict disease using machine learning? 
-     - Which correlation technique will be used in a binary dataset?
      - Which feature selection technique will be appropriate for this dataset?
      - Which machine learning algorithms are most effective in producing reliable results? 
      - What method of cross validation evaluation will be employed?
