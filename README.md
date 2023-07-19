@@ -18,6 +18,7 @@ The data set was retrieved from:
 
 ##  Project Stages
 
+The final report for the project can be found [here.](https://github.com/DA-CIND/CIND820/blob/main/CIND820_FinalReport.pdf)
 1.	[ABSTRACT](https://github.com/DA-CIND/CIND820/blob/main/Abstract%20-%20Revised.pdf) 
 2.	INTRODUCTION
   * Research Questions
